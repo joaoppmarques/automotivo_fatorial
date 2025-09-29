@@ -1,5 +1,5 @@
 # automotivo_fatorial
-Este repositório contém o Trabalho de Conclusão de Curso desenvolvido como parte dos requerimentos para a obtenção do título de especialização "MBA em Data Science e Analytics" pela ESALQ/USP.
+Este repositório contém o Trabalho de Conclusão de Curso desenvolvido como parte dos requerimentos para a conclusão do curso de Pós-Graduação Lato Sensu "MBA em Data Science e Analytics" pela ESALQ/USP.
 
 O estudo analisou o mercado automotivo brasileiro entre 1996 e 2023, buscando identificar como indicadores macroeconômicos nacionais influenciaram o desempenho do setor. Para isso, foram utilizadas técnicas estatísticas e de aprendizado de máquina não supervisionado, com destaque para a Análise Fatorial por Componentes Principais (PCA). O objetivo foi identificar correlações, levantar hipóteses explicativas e sintetizar cenários econômicos complexos em fatores representativos.
 
